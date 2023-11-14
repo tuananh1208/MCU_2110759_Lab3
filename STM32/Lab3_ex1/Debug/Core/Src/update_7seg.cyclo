@@ -1,0 +1,3 @@
+update_7seg.c:27:6:update_7seg_0	1
+update_7seg.c:36:6:update_7seg_1	1
+update_7seg.c:46:6:setLED7	7
